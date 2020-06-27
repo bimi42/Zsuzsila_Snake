@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zsuzsila_Snake</string>
+    <string name="score">Pontok: </string>
+    <string name="player_name">Játékos neve</string>
+    <string name="name">Név:</string>
+    <string name="next">Tovább</string>
+</resources>
